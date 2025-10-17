@@ -1,10 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: snowpati # Your GitHub organization or username, where this repository lives
+repo: MindoIT # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Mindo - Main Router
+    url: 103.247.120.233
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
